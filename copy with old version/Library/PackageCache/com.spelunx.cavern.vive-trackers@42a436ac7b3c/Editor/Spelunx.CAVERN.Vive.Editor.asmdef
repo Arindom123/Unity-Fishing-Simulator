@@ -1,0 +1,20 @@
+{
+    "name": "Spelunx.CAVERN.Vive.Editor",
+    "rootNamespace": "Spelunx.Vive",
+    "references": [
+        "Spelunx.Cavern.SDK.Editor",
+        "Spelunx.Vive.Tracking",
+        "Spelunx.Cavern.SDK"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
